@@ -1,0 +1,30 @@
+# python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+
+# Docker
+*.tar
+
+# Misc
+*.swp
